@@ -3,7 +3,7 @@
     <head>
         <meta charset="UTF-8" />
         <link rel="stylesheet" href="style.css" />
-        <title><a href="index.php"><h1 id="titreBlog">Mon Blog</h1></a></title>
+        <title>Mon Blog</title>
     </head>
     <body>
         <div id="global">
